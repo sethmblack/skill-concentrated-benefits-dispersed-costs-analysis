@@ -1,10 +1,9 @@
 ---
 name: concentrated-benefits-dispersed-costs-analysis
-description: Explain why economically harmful policies persist by analyzing the asymmetric
-  incentives of beneficiaries versus victims.
+description: Explain why economically harmful policies persist by analyzing the asymmetric incentives of beneficiaries versus victims.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - concentrated-benefits
