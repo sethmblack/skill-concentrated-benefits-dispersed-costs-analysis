@@ -4,7 +4,7 @@ description: Explain why economically harmful policies persist by analyzing the 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3645
+  version: 1.0.3646
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - concentrated-benefits
